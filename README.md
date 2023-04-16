@@ -3,6 +3,6 @@ Mobile-API for [hide expert vpn](https://play.google.com/store/apps/details?id=c
 
 ## Example
 ```bash
-source hide_expert_vpn.sh
+source ./hide_expert_vpn.sh
 get_servers
 ```
